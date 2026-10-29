@@ -6,10 +6,10 @@ zeroattendees = participant_cost(0, 800, 200)
 
 # Tests:
 #normal attendee test
-print (participant_cost(10, 800, 200)) # expected flow: 10,000
+#print (participant_cost(10, 800, 200)) # expected flow: 10,000
 
 #Zero attendee test
-print (participant_cost(0, 800, 200)) # expected flow: 0
+#print (participant_cost(0, 800, 200)) # expected flow: 0
 
 # Hand over note
 #component: participant_cost
